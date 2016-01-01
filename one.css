@@ -15,7 +15,7 @@
 }
 .sidebar_black {
 	color: #000;
-	font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Georgia', 'Times New Roman', serif;
+	font-family: 'HoeflerText-Regular', 'Georgia', 'Times New Roman', serif;
 	font-size: 13px;
 	font-stretch: normal;
 	font-style: normal;
@@ -25,7 +25,7 @@
 	padding-bottom: 11px;
 }
 .sidebar_kudos {
-    font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
+    font-family: 'HoeflerText-Regular', 'Times New Roman', serif;
     font-size: 11px;
     font-stretch: normal;
     font-style: normal;
@@ -39,7 +39,7 @@
 }
 .sidebar_t {
 	color: rgb(95, 95, 95);
-	font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Georgia', 'Times New Roman', serif;
+	font-family: 'HoeflerText-Regular', 'Georgia', 'Times New Roman', serif;
 	font-size: 14px;
 	font-stretch: normal;
 	font-style: normal;
@@ -61,7 +61,7 @@
 }
 .sidebar_head {
 	color: rgb(146, 146, 146);
-	font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Georgia', 'Times New Roman', serif;
+	font-family: 'HoeflerText-Regular', 'Georgia', 'Times New Roman', serif;
 	font-size: 16px;
 	font-stretch: normal;
 	font-style: normal;
@@ -251,7 +251,7 @@
 	text-decoration: none;
 }
 .refs {
-	font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
+	font-family: 'HoeflerText-Regular', 'Times New Roman', serif;
 	font-size: 11px;
 	font-stretch: normal;
 	font-style: normal;
@@ -260,7 +260,7 @@
 	color: rgb(169, 169, 169);
 }
 .refs_numbers {
-	font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
+	font-family: 'HoeflerText-Regular', 'Times New Roman', serif;
 	font-size: 14px;
 	font-stretch: normal;
 	font-style: normal;
